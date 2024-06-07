@@ -19,6 +19,10 @@ This is a solution to [the Blog preview card challenge on Frontend Mentor](https
 
 ![](./design/desktop-design.jpg)
 
+### Active State View
+
+![](./design/active-states.jpg)
+
 ### Mobile View
 
 ![](./design/mobile-design.jpg)
